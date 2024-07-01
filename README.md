@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a third year student at NIT Patna.<br>I am an Android Developer
-
+I am a third-year Electronics and Communication Engineering (ECE) student at National Institute of Technology (NIT) Patna, passionate about developing innovative and user-friendly Android applications. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sksinha2410) 
