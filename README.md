@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year Electronics and Communication Engineering (ECE) student at National Institute of Technology (NIT) Patna, passionate about developing innovative and user-friendly Android applications. 
+I am a final year Electronics and Communication Engineering (ECE) student at National Institute of Technology (NIT) Patna, passionate about developing innovative and user-friendly Android applications. 
 
 
 ## 🌐 Socials:
