@@ -1,6 +1,5 @@
 # 💫 About Me:
-I have recenctly graduated from National Institute of Technology (NIT) Patna, passionate about developing innovative and user-friendly Android applications. 
-
+I am Shivam Kumar Sinha, a Software Engineer and Android Developer, recently graduated from National Institute of Technology (NIT) Patna.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sksinha2410) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sksinha2410) 
@@ -33,4 +32,6 @@ I have recenctly graduated from National Institute of Technology (NIT) Patna, pa
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sksinha2410/sksinha2410/output/pacman-contribution-graph.svg">
 </picture>
 ---
-[![](https://visitcount.itsvg.in/api?id=sksinha2410&icon=0&color=0)](https://visitcount.itsvg.in)
+<br clear="both">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=sksinha2410&icon=0&color=0)](https://visitcount.itsvg.in)
