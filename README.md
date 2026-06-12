@@ -34,4 +34,4 @@ I am Shivam Kumar Sinha, a Software Engineer and Android Developer, recently gra
 ---
 <br clear="both">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=sksinha2410&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sksinha2410&label=Profile%20Views&color=0e75b6&style=flat)
